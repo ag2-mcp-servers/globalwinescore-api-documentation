@@ -1,6 +1,6 @@
 # MCP Server
 
-This project is an MCP (Multi-Agent Conversation Protocol) Server for the given OpenAPI URL - https://api.apis.guru/v2/specs/globalwinescore.com/8234aab51481d37a30757d925b7f4221a659427e/openapi.json, auto-generated using AG2's [MCP builder](https://mcp.ag2.ai).
+This project is an MCP (Model Context Protocol) Server for the given OpenAPI URL - https://api.apis.guru/v2/specs/globalwinescore.com/8234aab51481d37a30757d925b7f4221a659427e/openapi.json, auto-generated using AG2's [MCP builder](https://mcp.ag2.ai).
 
 ## Prerequisites
 
